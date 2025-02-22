@@ -33,6 +33,7 @@ Exploring Blockchain technology in real-world applications
 ✔ Git | GitHub | Postman | Eclipse | IntelliJ | Docker
 
 📌 Projects
+
 1️⃣ Blockchain Ticketing System
 📌 Technologies: Java, Spring Boot, Blockchain Smart Contracts
 🔹 Built a decentralized ticketing system for secure and transparent transactions.
